@@ -23,6 +23,7 @@ def generate_new_unique_ozlotto_draw(existing_draws):
             return new_draw
 
 existing_draws = [
+    
     [12, 16, 17, 33, 34, 41, 42],
     [5, 7, 18, 21, 33, 39, 47],
     [2, 5, 7, 25, 27, 33, 43],
